@@ -1,5 +1,7 @@
 ExTwilio
 ========
+The original at danielberkompas/ex_twilio does not seem to be maintained anymore. I have taken the liberty of adding functionality that I need via the languishing PRs. a 6/11/23
+
 
 [![Hex.pm](https://img.shields.io/hexpm/v/ex_twilio.svg)](https://hex.pm/packages/ex_twilio)
 [![Build Status](https://danielberkompas.semaphoreci.com/badges/ex_twilio/branches/master.svg?style=shields)](https://danielberkompas.semaphoreci.com/projects/ex_twilio)
